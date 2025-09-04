@@ -1,8 +1,13 @@
+
 # Unlock The GlassDoor - Chrome Extension
 
 A Chrome extension that removes overlays and login modals from Glassdoor to improve browsing experience.
 
 > 🔄 **Extension Status**: Currently under review for Chrome Web Store. The extension will be available on Chrome Web Store soon!
+
+![enter image description here](https://i.ibb.co/1DpJxct/msedge-3d-Ay-KCLc-Dy.png)
+
+![enter image description here](https://i.ibb.co/9mPJK0jm/CB068-LJu-WA.png)
 
 ## Features
 
