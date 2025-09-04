@@ -2,6 +2,8 @@
 
 A Chrome extension that removes overlays and login modals from Glassdoor to improve browsing experience.
 
+> 🔄 **Extension Status**: Currently under review for Chrome Web Store. The extension will be available on Chrome Web Store soon!
+
 ## Features
 
 - Automatically removes content overlays on Glassdoor pages
