@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Unlock The GlassDoor",
+  "version": "1.0.0",
+  "description": "Removes overlays and login modals from Glassdoor to improve browsing experience",
+  "author": "Sandalu Pabasara Perera <sandalupabasara@gmail.com>",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "*://*.glassdoor.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Unlock The GlassDoor"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.glassdoor.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icons/logo.png",
+    "32": "icons/logo.png",
+    "48": "icons/logo.png",
+    "128": "icons/logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

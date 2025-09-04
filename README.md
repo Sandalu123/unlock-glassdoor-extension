@@ -36,3 +36,7 @@ Email: sandalupabasara@gmail.com
 ## Version
 
 1.0.0
+
+---
+
+*Made with ❤️ by Sandalu Pabasara Perera*
