@@ -3,11 +3,13 @@
 
 A Chrome extension that removes overlays and login modals from Glassdoor to improve browsing experience.
 
-> 🔄 **Extension Status**: Currently under review for Chrome Web Store. The extension will be available on Chrome Web Store soon!
+[![Available in the Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/unlock-the-glassdoor/ddlgegaiaagimpbihocbocgmpnndmafj)
 
-![enter image description here](https://i.ibb.co/1DpJxct/msedge-3d-Ay-KCLc-Dy.png)
+**Get it now on Chrome Web Store!**
 
-![enter image description here](https://i.ibb.co/9mPJK0jm/CB068-LJu-WA.png)
+![1](https://i.ibb.co/1DpJxct/msedge-3d-Ay-KCLc-Dy.png)
+
+![2](https://i.ibb.co/9mPJK0jm/CB068-LJu-WA.png)
 
 ## Features
 
@@ -20,6 +22,12 @@ A Chrome extension that removes overlays and login modals from Glassdoor to impr
 
 ## Installation
 
+### From Chrome Web Store (Recommended)
+1. Visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/unlock-the-glassdoor/ddlgegaiaagimpbihocbocgmpnndmafj)
+2. Click "Add to Chrome"
+3. Navigate to glassdoor.com to start using
+
+### Manual Installation (For Developers)
 1. Download or clone this extension
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" 
